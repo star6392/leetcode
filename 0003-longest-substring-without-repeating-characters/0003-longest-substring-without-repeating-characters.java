@@ -8,8 +8,6 @@ class Solution {
 
         while (j<s.length()){
 
-            System.out.println("i:"+i+" j:"+j);
-
             if(hset.contains(s.charAt(j))){
                 ans = Math.max(ans,j-i);
                 hset.remove(s.charAt(i));
