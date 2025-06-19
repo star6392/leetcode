@@ -29,6 +29,7 @@ Syncing leetcode
 | [0217-contains-duplicate](https://github.com/star6392/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/star6392/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/star6392/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0567-permutation-in-string](https://github.com/star6392/leetcode/tree/master/0567-permutation-in-string) |
 ## Union Find
 |  |
 | ------- |
@@ -48,6 +49,7 @@ Syncing leetcode
 | [0049-group-anagrams](https://github.com/star6392/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/star6392/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/star6392/leetcode/tree/master/0242-valid-anagram) |
+| [0567-permutation-in-string](https://github.com/star6392/leetcode/tree/master/0567-permutation-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -84,6 +86,7 @@ Syncing leetcode
 | [0042-trapping-rain-water](https://github.com/star6392/leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/star6392/leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/star6392/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0567-permutation-in-string](https://github.com/star6392/leetcode/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -109,4 +112,5 @@ Syncing leetcode
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/star6392/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/star6392/leetcode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
