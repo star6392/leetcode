@@ -18,6 +18,7 @@ Syncing leetcode
 | [0217-contains-duplicate](https://github.com/star6392/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/star6392/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/star6392/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/star6392/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,6 +75,7 @@ Syncing leetcode
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/star6392/leetcode/tree/master/0238-product-of-array-except-self) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/star6392/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Matrix
 |  |
 | ------- |
@@ -113,4 +115,8 @@ Syncing leetcode
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/star6392/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/star6392/leetcode/tree/master/0567-permutation-in-string) |
+## Simulation
+|  |
+| ------- |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/star6392/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 <!---LeetCode Topics End-->
